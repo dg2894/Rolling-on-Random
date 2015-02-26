@@ -1,0 +1,13 @@
+Danielle Gray
+IGME 202-02
+
+Features of randomness include
+- The mountains in the background (perlin)
+- The foreground / sand (perlin / map)
+- The bubbles (random)
+- The fish locations / color (random)
+	- They appear every once in a while
+
+The part of the submarine that moves separately from the
+submarine is the periscope (the length that it's out)
+using mapping.
